@@ -1,7 +1,8 @@
 ---------------------------------------------------------------------------------------------------
-Version: 1.0.1
+Version: 2.1.0
 Date: ????
   Features:
+    - Updated for Factorio 2.1
     - Added `graphics/icons/boiler/boiler-blue-flame-icon-base.png`.
   Changes:
     - Updated boiler icon masks.
