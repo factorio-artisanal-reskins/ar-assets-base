@@ -3,6 +3,7 @@ Version: 2.1.1
 Date: ????
   Changes:
     - Added all Factorio 2.0 centrifuge sprites to `graphics/entity/centrifuge`; the entity has been re-rendered in Factorio 2.1
+    - Added all Factorio 2.0 heat exchanger sprites to `graphics/entity/heat-exchanger` to support use of the old model in Factorio 2.1
 ---------------------------------------------------------------------------------------------------
 Version: 2.1.0
 Date: 2026-07-12
