@@ -2,16 +2,17 @@
 Version: 2.1.1
 Date: ????
   Changes:
+    - Added all Factorio 2.0 centrifuge sprites to `graphics/entity/centrifuge`; the entity has been re-rendered in Factorio 2.1
 ---------------------------------------------------------------------------------------------------
 Version: 2.1.0
 Date: 2026-07-12
   Features:
     - Updated for Factorio 2.1
-    - Added `graphics/icons/boiler/boiler-blue-flame-icon-base.png`.
+    - Added `graphics/icons/boiler/boiler-blue-flame-icon-base.png`
   Changes:
-    - Updated boiler icon masks.
+    - Updated boiler icon masks
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2026-01-11
   Features:
-    - Initial release.
+    - Initial release
