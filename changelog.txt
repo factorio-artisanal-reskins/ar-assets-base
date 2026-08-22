@@ -6,7 +6,8 @@ Date: ????
     - Added all Factorio 2.0 centrifuge sprites to `graphics/entity/centrifuge`; the entity has been re-rendered in Factorio 2.1
     - Added all Factorio 2.0 heat exchanger sprites to `graphics/entity/heat-exchanger` to support use of the old model in Factorio 2.1
     - Added all Factorio 2.0 oil refinery sprites to `graphics/entity/oil-refinery` to support use of the old model in Factorio 2.1
-    - Added new tintable sprite sets for the Pumpjack, allowing to procedurally tint the entire structure, the standard stripe, or the accented portions of the structure.
+    - Added new tintable sprite sets for the Pumpjack, allowing to procedurally tint the entire structure, the standard stripe, or the accented portions of the structure
+    - Added new tintable sprites for the Heat Pipe, allowing to procedurally tint the heat pipes and the metal plates separately
   Changes:
     - Updated boiler icon masks
   Breaking Changes:
