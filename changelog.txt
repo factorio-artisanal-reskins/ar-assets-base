@@ -1,26 +1,17 @@
 ---------------------------------------------------------------------------------------------------
-Version: 2.1.2
+Version: 1.0.1
 Date: ????
-  Changes:
----------------------------------------------------------------------------------------------------
-Version: 2.1.1
-Date: 2026-07-19
   Features:
+    - Added `graphics/icons/boiler/boiler-blue-flame-icon-base.png`
     - Added all Factorio 2.0 centrifuge sprites to `graphics/entity/centrifuge`; the entity has been re-rendered in Factorio 2.1
     - Added all Factorio 2.0 heat exchanger sprites to `graphics/entity/heat-exchanger` to support use of the old model in Factorio 2.1
     - Added all Factorio 2.0 oil refinery sprites to `graphics/entity/oil-refinery` to support use of the old model in Factorio 2.1
     - Added new tintable sprite sets for the Pumpjack, allowing to procedurally tint the entire structure, the standard stripe, or the accented portions of the structure.
+  Changes:
+    - Updated boiler icon masks
   Breaking Changes:
     - Removed `graphics/entity/pumpjack/pumpjack-horsehead-mask.png`
     - Removed `graphics/entity/pumpjack/pumpjack-horsehead-highlights.png`
----------------------------------------------------------------------------------------------------
-Version: 2.1.0
-Date: 2026-07-12
-  Features:
-    - Updated for Factorio 2.1
-    - Added `graphics/icons/boiler/boiler-blue-flame-icon-base.png`
-  Changes:
-    - Updated boiler icon masks
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2026-01-11
