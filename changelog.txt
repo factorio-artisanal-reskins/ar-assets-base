@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------------------------------
-Version: 1.0.1
+Version: 1.1.0
 Date: ????
   Features:
     - Added `graphics/icons/boiler/boiler-blue-flame-icon-base.png`
@@ -13,6 +13,7 @@ Date: ????
   Breaking Changes:
     - Removed `graphics/entity/pumpjack/pumpjack-horsehead-mask.png`
     - Removed `graphics/entity/pumpjack/pumpjack-horsehead-highlights.png`
+    - Removed `-icon` and `-technology` discriminators from icon and technology file names; for example, `pipe-to-ground-icon.png` is now simply `pipe-to-ground.png`.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2026-01-11
